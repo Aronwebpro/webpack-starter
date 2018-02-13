@@ -1,0 +1,19 @@
+{
+  "name": "web-pack",
+  "version": "1.0.0",
+  "description": "Learning Webpack",
+  "main": "]",
+  "author": "Aaron",
+  "license": "ISC",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-template": "^6.1.0",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
